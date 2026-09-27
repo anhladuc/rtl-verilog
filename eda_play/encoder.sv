@@ -1,0 +1,2 @@
+module encorder (
+ input 
